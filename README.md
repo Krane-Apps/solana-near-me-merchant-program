@@ -6,6 +6,9 @@
 
 The Solana Near Me Merchant Program manages Merchant Registration, Location Verification, and Token Reward System for local businesses accepting SOL payments.
 
+**Check the Contract in Action on Solana Devnet**
+🔍 **[View Live Contract on Solana Explorer](https://explorer.solana.com/address/G8Vy1ppsevujQDmQfif2PnUTDj6nMvcDoqqZsK9Qz3L?cluster=devnet)**
+
 ## NFT Badges
 Merchants can earn exclusive NFT badges:
 
