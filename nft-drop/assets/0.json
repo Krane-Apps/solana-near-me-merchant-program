@@ -1,0 +1,30 @@
+{
+  "name": "Verified Merchant #0",
+  "symbol": "VMNFT",
+  "description": "Verified merchant in the Solana ecosystem.",
+  "seller_fee_basis_points": 0,
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "Badge",
+      "value": "Verified"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Merchant"
+    },
+    {
+      "trait_type": "ID",
+      "value": "#0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

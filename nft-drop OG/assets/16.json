@@ -1,0 +1,30 @@
+{
+  "name": "OG Merchant #16",
+  "symbol": "OGMNFT",
+  "description": "OG merchant in the Solana ecosystem.",
+  "seller_fee_basis_points": 0,
+  "image": "16.png",
+  "attributes": [
+    {
+      "trait_type": "Badge",
+      "value": "Verified"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Merchant"
+    },
+    {
+      "trait_type": "ID",
+      "value": "#16"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "16.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

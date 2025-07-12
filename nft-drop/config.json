@@ -1,0 +1,15 @@
+{
+  "uploadMethod": "bundlr",
+  "number": 20,
+  "symbol": "VMNFT",
+  "sellerFeeBasisPoints": 0,
+  "isMutable": true,
+  "isSequential": true,
+  "ruleSet": null,
+  "creators": [
+    {
+      "address": "26DbLxVUgQPmmwwFNpoWbeTuCT7jn8f19cFZeRtzNwyW",
+      "share": 100
+    }
+  ]
+}

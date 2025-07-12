@@ -1,0 +1,178 @@
+{
+  "program": {
+    "candyMachine": "CK6LQvFxbe1vL7idBse7z7ScWf8X5QGLnBrKbQfzqwhC",
+    "candyGuard": "",
+    "candyMachineCreator": "7Tv59JbiPbsxgms3DJvHX8Hyedya1EinDbVCHRuyrmwR",
+    "collectionMint": "7xLnrH3cNbohphyEjwBdjYYaSuFGknBGRdauarUo2my4"
+  },
+  "items": {
+    "-1": {
+      "name": "Verified Merchant Collection",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/CWCGNUJCyusnKQd5na7zMjfzkD9WjT3fPsu64tHfPcfd?ext=png",
+      "metadata_hash": "cd8dd988b4cef8108ae65442c4c75a99c43bd628dd7b79d1aafcc24d47d223a9",
+      "metadata_link": "https://gateway.irys.xyz/24pNfSm3xZDnitg6cGCdWhfpEqXwNjfBvC2tLLxzQUSn",
+      "onChain": true
+    },
+    "0": {
+      "name": "Verified Merchant #0",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/4Ak3WqGYyYy76reEh6ZZmYWCnErfVgMzyBbAmqxahbmw?ext=png",
+      "metadata_hash": "528e10dd606afa9bedd1a8815b1bc398c3ed1685c4b9507346ae859b87e68a77",
+      "metadata_link": "https://gateway.irys.xyz/93F4cDibxciUbbr8CvMBJhBjC9BbTBFAdx6p4smiyjZL",
+      "onChain": true
+    },
+    "1": {
+      "name": "Verified Merchant #1",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "cdfa55316e4f05ced40d933cbf5729b213bf444149eb1394f52ff4f0355582b2",
+      "metadata_link": "https://gateway.irys.xyz/C8Bfr2UV2J7V5jwyoLdPPHMKDLuG7uTYw6QemAjkUTzQ",
+      "onChain": true
+    },
+    "2": {
+      "name": "Verified Merchant #2",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "feed721d3631beb3e7cf8cdc98dbb7b9bf39175616511fb4639bf2cecd460177",
+      "metadata_link": "https://gateway.irys.xyz/84JwqfaVinf2KizLSGZ68q2XGB9UwWMwUkuEVXt3E78Q",
+      "onChain": true
+    },
+    "3": {
+      "name": "Verified Merchant #3",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "c7d5d8829fa2199daeec1afaf5bb8574b19e3fda9e2b531bdfad5c583580af3c",
+      "metadata_link": "https://gateway.irys.xyz/HBojHP8ACwvLNNCAa22hqm33fUwJNHVd25REbmwBUAQr",
+      "onChain": true
+    },
+    "4": {
+      "name": "Verified Merchant #4",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "91f1d821540fb2bd0cfb4ecf94c7458dfff367be4a637f3def2bf9f90c7b4c1c",
+      "metadata_link": "https://gateway.irys.xyz/4ZJLrjx3sgQapZABTvy6UuLTTueovU6YEocuExB7FvT2",
+      "onChain": true
+    },
+    "5": {
+      "name": "Verified Merchant #5",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "3b3069d99e345d42444cad1d5d3ca82202ad2eac6a589089ba0c62622d6debf4",
+      "metadata_link": "https://gateway.irys.xyz/FyBv3eULhdEEUZneUhFKBXxhEJPC4yaZXowqZ4SPhcK6",
+      "onChain": true
+    },
+    "6": {
+      "name": "Verified Merchant #6",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "169e6b0e09d3d6c13349d50b4518c8c7b886dc9b0fd3c6d60b8e493b47c34c58",
+      "metadata_link": "https://gateway.irys.xyz/Kfq3e6tkEBGukCSLuicXumYXKJauP5GoXU6TZTPpJzh",
+      "onChain": true
+    },
+    "7": {
+      "name": "Verified Merchant #7",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "de776d59d757b2105df0a7fe8e0ea2d80148d158932b253e1342baec75fed80d",
+      "metadata_link": "https://gateway.irys.xyz/HP3vqNMvr1PfcvxohQj8sd6MTfyULcJ1ForNKJYDrsdq",
+      "onChain": true
+    },
+    "8": {
+      "name": "Verified Merchant #8",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "75573910bd49a2bee79add633baf5580ef6b4ff4a29bbe82f1c4669e5cb556cd",
+      "metadata_link": "https://gateway.irys.xyz/HaAH3CBi6T2ZbhAiSzFCSNXuGDtAyaWRQQAFyAjDuw5Z",
+      "onChain": true
+    },
+    "9": {
+      "name": "Verified Merchant #9",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "6a3f0e11047b3b2eaabd0921430c04039cce44a48f0ecca3d0cfdcb0fe3a2c4d",
+      "metadata_link": "https://gateway.irys.xyz/6LdYhybuydVNeKXBTQ1CSmbPQz8qrtzjgq7tFogVsLgE",
+      "onChain": true
+    },
+    "10": {
+      "name": "Verified Merchant #10",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "07b11e76f8b6a1cf3d30032ff216695d69ee8a25b17882b4345bdf00ae219a31",
+      "metadata_link": "https://gateway.irys.xyz/6AUxsDdomBbBZiMTXsZYNzShJC5K5LH5A27XzVrUYRDv",
+      "onChain": true
+    },
+    "11": {
+      "name": "Verified Merchant #11",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "4974a23b3c06f56f680fac4ca731454d1ba9cf1237c269df46e366f5c785981d",
+      "metadata_link": "https://gateway.irys.xyz/DDukShqB8XWsfUPM5AAU3BkpavB5PT2mNyJip6fD88E2",
+      "onChain": true
+    },
+    "12": {
+      "name": "Verified Merchant #12",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "968c9762e5b707967f3f8d97c3e78ae9285264e21cd0af833f02c70d31f1ab93",
+      "metadata_link": "https://gateway.irys.xyz/GSXNcPi5rohuLiGLnc6h4XsT9FdUYChXPPU53nYJHR3L",
+      "onChain": true
+    },
+    "13": {
+      "name": "Verified Merchant #13",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "dce211e0a8ee1b32dd46450e88d2572a3651dd4eebb38b4484a6d5843dd31750",
+      "metadata_link": "https://gateway.irys.xyz/7ivaSy6FGFckuT9HBmo2eAFePRTsPnK8yJdk2F9Rx3Ne",
+      "onChain": true
+    },
+    "14": {
+      "name": "Verified Merchant #14",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "98e19855c29b89bdf616d86591d648a6d8b3f556725e2142070ec178841caba3",
+      "metadata_link": "https://gateway.irys.xyz/4bjVPyobEYbB5n5wrqWC27z5bh91NAjuY64w2M4c66gF",
+      "onChain": true
+    },
+    "15": {
+      "name": "Verified Merchant #15",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "be5af295d2dd551da558db06e872d8350061340700b5903836b3f70033c7eb68",
+      "metadata_link": "https://gateway.irys.xyz/G67FTzdvhgPH36UE8Bha8zNfBcgTqHEeknFhvwuQAHp9",
+      "onChain": true
+    },
+    "16": {
+      "name": "Verified Merchant #16",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "2cf740c3b85de40f7e43b3c2a74197cdfe90ac664f83579ed3069d7aecd4c64e",
+      "metadata_link": "https://gateway.irys.xyz/2Z45Zd1jhMYWaUEWWouiukrPhMkZ1NxENHdHrNiwSS9J",
+      "onChain": true
+    },
+    "17": {
+      "name": "Verified Merchant #17",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "c61a2bd43e3768d7ab675e2dd50cdb5a96c8989821f2a812110ed243d4f500fa",
+      "metadata_link": "https://gateway.irys.xyz/Bk7Mkkziwn1MbrDAuirZpAA6gKeL4AWtA5YCs7QMFuSQ",
+      "onChain": true
+    },
+    "18": {
+      "name": "Verified Merchant #18",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "89aa64caab10dba197001adafa4cba12291db817abf66dbdaa214a12fb1779d9",
+      "metadata_link": "https://gateway.irys.xyz/GXUAgQPwsNuk3MLngjnAFkwZNPPNpy9N2tA4bUeTBYXD",
+      "onChain": true
+    },
+    "19": {
+      "name": "Verified Merchant #19",
+      "image_hash": "c1d9b57088ad7605a93192b96094574c0b3ec288c7738c3a4c388532cca8a3df",
+      "image_link": "https://gateway.irys.xyz/F4nkrsrbfgu7QW9DRBecV7oVufZvNbHcfmxB3rowPECk?ext=png",
+      "metadata_hash": "0c41113bd46d9803bd1fe3c8806bcade09d0e0fbceefbff35de9ac9fc07d349d",
+      "metadata_link": "https://gateway.irys.xyz/CV8Zr8GuNkRtWYJPqMTzezfepzh1Pof19kJGUcSi77u1",
+      "onChain": true
+    }
+  }
+}
