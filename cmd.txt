@@ -1,0 +1,9 @@
+cmds
+
+rm -rf target/
+
+solana-keygen new --outfile target/deploy/your_program-keypair.json
+
+anchor build
+
+anchor deploy
