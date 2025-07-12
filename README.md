@@ -1,28 +1,23 @@
 # Solana Near Me Merchant Program
 
-**Solana Near Me** is the first Seeker mobile app that helps you find Solana merchants and ATMs near you. Built 100% for the Solana ecosystem, with Solana Pay, Seeker Wallet, and Token rewards and NFTs are integrated. It's **On-Chain Local Commerce** now possible with help of Solana Sekker Devices.
-
-# Problem We Solve**
-Solana is fast, cheap, and scalable — but without local visibility, it's underused in the real world. Solana Near Me gives every Seeker holder a way to earn by turning Seeker devices into merchant wallets and a proof-of-location device.
+**Solana Near Me** is the first Seeker mobile app that helps you find Solana merchants and ATMs near you. Built 100% for the Solana ecosystem, with Solana Pay, Seeker Wallets, Proof-of-Location, Token rewards and NFTs are integrated. It's **On-Chain Local Commerce** now possible with help of Solana Sekker Devices.
 
 ## What This Contract Does
 
 The Solana Near Me Merchant Program manages Merchant Registration, Location Verification, and Token Reward System for local businesses accepting SOL payments.
 
-### NFT Badges
+## NFT Badges
 Merchants can earn exclusive NFT badges:
 
 | **Verified Merchants** | **OG Merchants** |
 |------------------------|------------------|
 | <img src="assets/verified-merchant.png" alt="Verified Merchant Badge" width="150"> | <img src="assets/og-merchant.png" alt="OG Merchant Badge" width="150"> |
-| **Verified Location Badge** | **OG Merchants** |
 | Legitimate businesses with confirmed locations | Legendary status merchants with high transactions and volume |
 
 ## Point System & Rewards
 
 The contract implements a comprehensive point-based reward system:
 
-### Point Rewards
 - **Registration Reward**: 100 points for signing up
 - **Verification Reward**: 150 points for location verification
 - **Transaction Reward**: 10 points per transaction
