@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-solana_near_me_merchant_program = "G8Vy1ppsevujQDmQfif2PnUTDj6nMvcDoqqZsK9Qz3L"
+solana_near_me_merchant_program = "GK7D1899kohN9dmtFrPybS2L3bpxpqYbTG2HP4eG6sM6"
 
 [registry]
 url = "https://api.apr.dev"

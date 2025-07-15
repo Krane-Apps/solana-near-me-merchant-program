@@ -4,12 +4,12 @@
 
 ## What This Contract Does
 
-The Solana Near Me Merchant Program manages Merchant Registration, Location Verification, and Token Reward System for local businesses accepting SOL payments.
+The Solana Near Me Merchant Program manages Merchant Registration, Location Verification, NFT and Token Rewards for local businesses accepting SOL payments.
 
-**Check the Contract in Action on Solana Devnet**
-🔍 **[View Live Contract on Solana Explorer](https://explorer.solana.com/address/G8Vy1ppsevujQDmQfif2PnUTDj6nMvcDoqqZsK9Qz3L?cluster=devnet)**
+**View Live Contract on Solana Devnet**
+🔍 **[GK7D1899kohN9dmtFrPybS2L3bpxpqYbTG2HP4eG6sM6](https://explorer.solana.com/address/GK7D1899kohN9dmtFrPybS2L3bpxpqYbTG2HP4eG6sM6?cluster=devnet)**
 
-## NFT Badges
+## NFT Rewards
 Merchants can earn exclusive NFT badges:
 
 | **Verified Merchants** | **OG Merchants** |
@@ -17,14 +17,20 @@ Merchants can earn exclusive NFT badges:
 | <img src="assets/verified-merchant.png" alt="Verified Merchant Badge" width="150"> | <img src="assets/og-merchant.png" alt="OG Merchant Badge" width="150"> |
 | Legitimate businesses with confirmed locations | Legendary status merchants with high transactions and volume |
 
+
 ## Token Rewards For App Activity
 
 The contract implements a comprehensive Synthetic Token rewards that are redeemable when we launch on Mainnet:
 
+### Merchant Rewards
 - **Registration Reward**: 100 tokens for signing up
 - **Verification Reward**: 150 tokens for location verification
-- **Transaction Reward**: 10 tokens per transaction
+- **Transaction Reward**: 100 tokens per transaction
 - **OG Badge Reward**: 500 tokens for achieving OG status
+
+### User Rewards
+- **User Registration Reward**: 100 tokens for signing up
+- **User Transaction Reward**: 100 tokens per transaction made
 
 ## Setup & Installation
 
@@ -73,17 +79,28 @@ anchor test
 
 ## Program Functions
 
-### `initialize`
-Initialize the contract with an owner account.
+### Core Functions
 
-### `register_merchant`
-Register a new merchant with location and metadata. If coordinates are provided, the merchant is automatically verified.
+#### `initialize`
+Initialize the contract with an owner account. This sets up the contract owner who has special privileges.
 
-### `verify_merchant`
-Verify an existing merchant's location and award verification badge.
+#### `register_merchant`
+Register a new merchant with location coordinates and metadata URI. If coordinates are provided (non-zero), the merchant is automatically verified and receives both registration and verification rewards.
 
-### `increment_tx_count`
-Increment transaction count for a merchant (only callable by contract owner). Awards OG badge after 10 transactions.
+#### `register_user`
+Register a new user account in the system. Users receive registration rewards and can earn transaction rewards.
+
+#### `verify_merchant`
+Verify an existing merchant's location by updating their coordinates. This function can only be called on unverified merchants and awards verification rewards.
+
+#### `increment_tx_count`
+Increment transaction count for both merchant and user accounts (only callable by contract owner). This function:
+- Rewards both merchant and user with transaction tokens
+- Automatically awards OG badge to merchants after 10 transactions
+- Includes bonus OG badge reward for qualifying merchants
+
+#### `update_merchant_nft_status`
+Update NFT minting status for merchants (only callable by contract owner). This tracks whether merchants have minted their verification and/or OG NFTs.
 
 ## Program ID
 
